@@ -179,7 +179,7 @@ Hi! I'm **Chandra Narayan Panda**, a B.Tech final year Computer Science Engineer
 
 - 🔗 LinkedIn: https://linkedin.com/in/your-profile
 - 💻 GitHub: https://github.com/ChandraNarayanPanda
-- 📧 Email: [chandra.panda.dev@gmail.com](mailto:chandra.panda.dev@gmail.com)
+- 📧 Email: [chandranarayanpanda2005gmail.com](chandranarayanpanda2005gmail.com)
 
 I am passionate about:
 
